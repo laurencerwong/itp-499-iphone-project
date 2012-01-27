@@ -1,0 +1,20 @@
+//
+//  GameAppDelegate.h
+//  Game
+//
+//  Created by Clark Barry on 10/20/11.
+//  Copyright University of Southern California 2011. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@class RootViewController;
+
+@interface GameAppDelegate : NSObject <UIApplicationDelegate> {
+	UIWindow			*window;
+	RootViewController	*viewController;
+}
+
+@property (nonatomic, retain) UIWindow *window;
+
+@end
