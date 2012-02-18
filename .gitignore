@@ -4,5 +4,5 @@
 
 #Ignore the xcode project#
 ##########################
-*.xcodeproj/*
 *.xcodeproj
+xcuserdata
