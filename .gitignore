@@ -2,3 +2,6 @@
 ###########################
 */build/*
 
+#Ignore the xcode project#
+##########################
+MusicZphere.xcodeproj
