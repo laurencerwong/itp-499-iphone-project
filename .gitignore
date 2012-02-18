@@ -4,4 +4,5 @@
 
 #Ignore the xcode project#
 ##########################
-MusicZphere.xcodeproj
+*.xcodeproj/*
+*.xcodeproj
